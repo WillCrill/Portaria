@@ -1,10 +1,10 @@
 import { Link } from "react-router-dom";
 import { Card, Stack} from "react-bootstrap";
-import Tema from "../../components/tema/Tema";
+import Tema from "../../components/tema";
 
 
 
-function Home () {
+const Main = () => {
 
 
     return (
@@ -49,4 +49,4 @@ function Home () {
     )
 };
 
-export default Home;
+export default Main;

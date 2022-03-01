@@ -1,7 +1,8 @@
 import { Form, FormGroup, FormLabel, FormControl, Container, Row, Col } from "react-bootstrap";
-import Header from "../../layout/header/Header";
+import Header from "../../components/header";
 
-function Encomendas () {
+
+const Encomendas = () => {
 
     return (
         <>

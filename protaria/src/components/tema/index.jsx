@@ -1,6 +1,6 @@
 import { ButtonGroup, Button} from "react-bootstrap";
 
-function Tema () {
+const Tema = () => {
 
 
     return (

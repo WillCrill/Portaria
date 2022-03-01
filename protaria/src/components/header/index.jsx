@@ -1,7 +1,7 @@
 import { Button, ButtonGroup, Stack} from "react-bootstrap";
 import { Link } from "react-router-dom";
 
-function Header () {
+const Header = () => {
 
 
     return (
